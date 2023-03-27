@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quixz</string>
+    <string name="true_btn_label">true</string>
+    <string name="false_btn_label">false</string>
+    <string name="score">score</string>
+    <string name="score_number">0</string>
+</resources>
